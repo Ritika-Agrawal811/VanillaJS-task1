@@ -34,14 +34,6 @@ p{
     
 }
 
-@media(max-width:576px){
-    #testObject{
-    width:250px;
-    height:250px;
-    border:2px solid #000;
-    margin-bottom:30px;
-}
-    
-}
+
 
 
